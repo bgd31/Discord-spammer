@@ -1,0 +1,2 @@
+What is new on version 0.8 GIT?
+ • Unobfuscated file

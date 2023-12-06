@@ -1,0 +1,10 @@
+=====LOG BEGIN=====
+
+
+
+VERSION: 1.0
+REVISION: 10
+
+ 2023-12-06 12:56:46.457  | DEBUG   | Importing required modules... 
+ 2023-12-06 12:56:46.548  | DEBUG   | SUCCESS 
+ 2023-12-06 12:56:46.549  | INFO    | Clearing terminal 
