@@ -37,10 +37,11 @@ To use more than one webhook, just go to new line
 # Coming Features
 - Token Bruteforce
 
+# Req
+https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare
 
 
 
-
-# MY DISCORD: bgdd_
+# MY DISCORD: bgddd1
 # Support Server
-## https://discord.gg/DtvHnTGWmV
+## null
