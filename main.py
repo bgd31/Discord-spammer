@@ -2,9 +2,9 @@
 
 
 
-# bgd- main.py - 2023/12/6 Main Release
+# bgd- main.py - 2024/11/08 Main Release
 
-version = "2.0"
+version = "3.0"
 revision = 10
 
 zirinus= """
@@ -694,5 +694,8 @@ if __name__ == "__main__":
 else:
     print("Not designed to import as a module")
     exit()
+
+
+
 
 
