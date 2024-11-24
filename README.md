@@ -5,6 +5,8 @@ Discord spam tool that made with Python
 
 # How to use
 **Module installation is automatic**
+After you install,you must put a discord token into tokens.txt and restart the main.py
+
 ## Spammer
 
 Write your tokens to tokens.txt file.
